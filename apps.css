@@ -1,0 +1,8 @@
+#running-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #ffff;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
