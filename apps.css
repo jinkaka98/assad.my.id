@@ -1,8 +1,17 @@
-#running-text {
+/* #running-text {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
     color: #ffff;
     position: absolute;
     white-space: nowrap;
     overflow: hidden;
+} */
+
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #2E333D;
 }
+
+.container {}
